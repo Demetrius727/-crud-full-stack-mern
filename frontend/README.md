@@ -2,4 +2,5 @@
 
 - React.js
 - Chakra UI
-- react-router-dom
+- Zustand
+- React-router-dom
