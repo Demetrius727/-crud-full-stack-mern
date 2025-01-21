@@ -8,6 +8,9 @@ Course Description: Learn to build full-stack web applications using MongoDB, Ex
 
 - React.js
 - Chakra UI
+- Zustand
+- React-router-dom
+
 - Node.js
 - Express.js
 - MongoDB
